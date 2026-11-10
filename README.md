@@ -1,5 +1,7 @@
 # Agentes
 
+Pruebas hechas durante el curso Claude Platform 101.
+
 ## Ejecutar
 
 ```bash
